@@ -1,0 +1,387 @@
+{
+  "cookies": [
+    {
+      "name": "MSISAuth",
+      "value": "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",
+      "domain": "adfs.ericsson.com",
+      "path": "/adfs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSISAuth1",
+      "value": "VYwQ0N35EdHdtKjqLz0YCQ==",
+      "domain": "adfs.ericsson.com",
+      "path": "/adfs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSISSignOut",
+      "value": "c2lnbm91dENsZWFudXA7dXJuJTNhZmVkZXJhdGlvbiUzYU1pY3Jvc29mdE9ubGluZSZNaWNyb3NvZnQrT2ZmaWNlKzM2NStJZGVudGl0eStQbGF0Zm9ybStXb3JsZHdpZGUmaHR0cHMlM2ElMmYlMmZsb2dpbi5taWNyb3NvZnRvbmxpbmUuY29tJTJmbG9naW4uc3JmJmh0dHBzJTNhJTJmJTJmbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbSUyZmxvZ2luLnNyZlw=",
+      "domain": "adfs.ericsson.com",
+      "path": "/adfs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSISAuthenticated",
+      "value": "OS8xMy8yMDI0IDI6MzE6MzYgQU0=",
+      "domain": "adfs.ericsson.com",
+      "path": "/adfs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSISLoopDetectionCookie",
+      "value": "MjAyNC0wOS0xMzowMjozMTozNlpcMQ==",
+      "domain": "adfs.ericsson.com",
+      "path": "/adfs",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "PgcTFeF.fv38Bo7uknhH0R31MNgpJZXv_.lPvg61HWA-1726194682-1.0.1.1-MAml4ZRz3QpqUT2yxH1FInC_6CTmVNuFbo6tYnBuc4Jmy04eRsz.RCKW0LXS_Q9PwZ76sdT8ck6EIqxydEwDvg",
+      "domain": ".www.ericsson.com",
+      "path": "/",
+      "expires": 1726196482.537761,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_user",
+      "value": "jUM9eO2TehIBOON9TvknNk|2024-09-13T02:31:23.141Z",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": 1757730683.14191,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ai_session",
+      "value": "6pNR2uKARySUlWni+z/m7k|1726194683307|1726194683307",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": 1726196483.307323,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sat_track",
+      "value": "false",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": 1728786685,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cmpcccx64887",
+      "value": "aBQE5GfkAAgAzALAAuACgAIIDggHEgQZAg4BYEC4YKNAVLACJvwbsx3ZrdnG7PA",
+      "domain": ".ericsson.com",
+      "path": "/",
+      "expires": 1727404285,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TiPMix",
+      "value": "67.46020595001202",
+      "domain": ".www.ericsson.com",
+      "path": "/",
+      "expires": 1726198286.883088,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-routing-name",
+      "value": "self",
+      "domain": ".www.ericsson.com",
+      "path": "/",
+      "expires": 1726198286.883172,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ARRAffinity",
+      "value": "c01fc0d5dbd7d86645b8c4e986fa46e3db5845b194b38b6457b279b9049f4b35",
+      "domain": ".www.ericsson.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ARRAffinitySameSite",
+      "value": "c01fc0d5dbd7d86645b8c4e986fa46e3db5845b194b38b6457b279b9049f4b35",
+      "domain": ".www.ericsson.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-FelJV5Ozq3U",
+      "value": "AQABCQEAAAApTwJmzXqdR4BN2miheQMY9FjYWfqAo1VjJzYO5dtiPf6YeooQKHZhtxrvketa-Z5FH_cIJ3R6TdBuJWTKR-Zr3RfGtMwdI_dD7eB0e4fGQU5-ayH6OKGtt6a0aQ4iOerB4F5ZQrgviR4oQ4pbGWPtCIxZc2UOUXHoUxTm92rKQiAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "x-ms-gateway-slice",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stsservicecookie",
+      "value": "estsfd",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AADSSO",
+      "value": "NA|NoExtension",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SSOCOOKIEPULLED",
+      "value": "1",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1726194747,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx",
+      "value": "PAQABBwEAAAApTwJmzXqdR4BN2miheQMY_rj1qrW2j3Yt5JBkT9PQirjYuY3Gii1QICqmW8LHV-aTislRFG32Sk3uqtTyapZTvB_8qriUqijN0QvygWM7sRJzjH1Xoo1NY772Xzf-8uzvMX_udiSw3rl4eAZEMLFnlg_qr-_4efjSie_Y2n4vIOyP_-BS8ma-llYaLLDzC0MgAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "esctx-dG9tQabCX0o",
+      "value": "AQABCQEAAAApTwJmzXqdR4BN2miheQMYKOM_DYflSS-w45YfIwHHGNIv85i5OzxfC-WI3EE994lBhwY4ShihZPcb2b148QBo_Xro6LJ_cKF9gtXD3X66U9gTsGpUBsH1dMOthd6OYy5qQRRSjMqzla23xL1o9iadOkOo_mfxKVz6ZHIQzoz1GCAA",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "brcap",
+      "value": "0",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1759890688,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uaid",
+      "value": "50f08d5675ba4b1783c6ce793f669998",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "MSPRequ",
+      "value": "id=N&lt=1726194688&co=1",
+      "domain": ".login.live.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHPERSISTENT",
+      "value": "0.AREA60zokv37q0e-UggMa4eVP8c5BKCDlo1Ph6ctfcr3GuYRABo.AgABFwQAAAApTwJmzXqdR4BN2miheQMYAwDs_wUA9P8a5-QOG6JQB8aNvLRZ67qom7P48Vp2rASt3A7HhqvXuRyX0mBF4kssZhIytbG4brbETxq7WUh8JZ3zhpD7x18vdtPwWyKiqpYDLp6vPvfsp9DbDur7gyGW_9JS74sOZXLFbTAp2uK46JPf6R2T5DXAD_aTyhpT1GrxIImpCoWXCHUxVYFpddkYCf6Ov0HOPKqx2itFJQ60jsRqJuzBrExszvtObNPQzFBZFc25VcFQn8v7ViCf_euIYH7oMDa6sI1s_tQ2roh-gMZUVBudxnDTHCZf24_VU0ZWfC_gbrzSwaz2IMekD4g1ZsiXLaN2vUrdYoYpzdtYsK6_hetxaPcJYY31er0M6dBemoIgebEbJEHZIoxkwmDPfD6yDz81SGECe-XrNCvTJrOPh6BRQbAgXQWpgHHvOu5UG89Rgqnf_9kXdqmi5W5oeii5N1d2q-LJSGIYWd0aQune5t09hiOfxBlA-8y2zxNId9L1fHEabaIVidfTOWXcL_wlmtMFdytiEtispvsuKAt79AhQ82AlBdSOGCHdh-QquOEdMI_CI5l3IF5qPJi6jYecXQ",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1733970698.232325,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTH",
+      "value": "0.AREA60zokv37q0e-UggMa4eVP8c5BKCDlo1Ph6ctfcr3GuYRABo.AgABFwQAAAApTwJmzXqdR4BN2miheQMYAwDs_wUA9P-BH5C2elcJfgEihQP0wEHseC6ee378969cz_ymVVmM9lPq5S2Aa5kH8BFVJgsm3HJWsblTONqzTytNaT0uY126lLadZQ08z75rHxoUATHkZQVqul1G9eszzE2S7GeZ0QbPrYsmjqFzhz3zTfa0FMhRHcwqN_jyF5fbqGue2yGYANLmDtNJXIlV2LjR7YOJWAg3mMzDr2M3tW-XVpJiJaEGQ48ZRxGrDKaQIaNUP55BBF6T6gmOB1HZIEBP8orFtmOHYtVMk18yZb3_GQVymbQxQWxbbc-_8JxHf2Ooez3qikpyuia89-pu0d4HhbYE40vxPggkpA5T0WGcPn0igksm6u1pq71ooog1-m3f_bqIU0iWg3et5wsjK7-IJxzR2du6-XOHqMgybn56uqMoyZLjaqzFrajm3AoPyhjDi0s1VYbezEn0pu2HxswUd7bu9TgrlR9WWvGUqSVfL8Weh5P7nXgDEWYZ-vMXwa9sl9tAd-O-Pu5-2-e4QUip0_0to0J_a8qLGJoH_GRPcoCcDmM3QhzqiHvcFXQed47wr0DeYUG0MaUDfeEFiKMFU9mMiI1vQATkSl1rWiq3xZi4DtsSGm58Ckjhw-_yEafGhNggG6SRqscsZTfFghcK6ae9YZP5tesXQXH9bTPZzpO2qhEKcMII9OzHwd9Jb6_jLEpPbPwmNNEEthEuWcXZyKwIkBx3sDvtZzeA_DZgZevTKIHxVvr8sFI2qV3uJuVBL7LR4ZQ3FL4jTodsVIXHFclh6pdabtEdX4zTv2A_N-0aZnQH_3_zVI6w8CVC_wQPAL4I2Sh1pR4vrRDnUKc",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ESTSAUTHLIGHT",
+      "value": "+5ce0d586-ac26-41c8-820d-85cc23acfb66",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "buid",
+      "value": "0.AREA60zokv37q0e-UggMa4eVP8c5BKCDlo1Ph6ctfcr3GuYRABo.AQABGgEAAAApTwJmzXqdR4BN2miheQMYh1UVVnHZM0snAvrf7B67ItkmsFZ-iG83MkBQ_Abo0a6xEwd505AP-krPYQ3Pbx13cBTWhN2W3r8tvgCtk9sG9yNC5QQ82zuSDdoAG4A0UdVtcTBZlcg42yPm0e-7qatXO4cMwPiDGCePGYbaY_pqvDZ_-H6otdLdsVftWH1yPjkgAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1728786698.232482,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "CCState",
+      "value": "Q293QkNobDZaR2x1Ym1kaFFIaGxZV1F1WlhKcFkzTnpiMjR1WTI5dEVnRUJJZ2tKZ0VaR3ZZU1ozRWdxQ1FrTHdqTFpkOXZjU0RJcUNoSUtFTWM1QktDRGxvMVBoNmN0ZmNyM0d1WVNDUWt2Q0diOTl0WGNTQm9KQ1F0Q0VUR2MwOXhJT0FCSUFWSVNDaERyVE9pUy9mdXJSNzVTQ0F4cmg1VS9XaElLRUhPeFpUMzY2b05GdkRyajFMV1ZuUWdTRWdvUWcwSUNGVmxmUkVhMU5CRC81TllQMXhvSkNRdENFVEdjMDl4SU1uNENBQUVmQVFBQUFDbFBBbWJOZXAxSGdFM2FhS0Y1QXhnREFPei9CUUQwLzMySGorQWNLamFoRitueDdybFh0RHU0QXBwcWtsejBFRUtLUFQ1NkFIQURqVVRvWmVvc0FvZllhREVQUVRPazJ4dTNFeThPZVlQcmJMMnlXQkQrWkkyTC9CK3lGM1hYQmNENmhhb2Nuc0pQVFRwK0JLR3ZXRkRYMGZwVEpITT0=",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": 1727058698.232535,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SignInStateCookie",
+      "value": "CAgABFgIAAAApTwJmzXqdR4BN2miheQMYAwDs_wUA9P-zKyIMY8AUwECH5Tt6m629vcJEifOOZnKCQtzp3B6LNfmGIgM5Zy1jHcI6VWpoRO5QdNBD6ffGl2YS_aOBoIUGikJyUPg20b2kog5gPaecJTHH42GKBR-KFKh8U_Cbwjm4xUo86YXv6DtZsTuKlWLJA78LHsRrd0Yis6oXANxfUHH7EUK3QLWA0EnXVCHiAkzJ6zm-f85dKJyNhxS9gLddoDACjsu3ZPWYFUN15jY0Kw9_UG0sbWMvIICznzoxZ6R6h-LDgb84ai6Edu-DRi-dGNmIS0FE-VcmT5zOP6mUZpxzC5I4-aO8GVSJMRKim3hht-r23MGnQbkebqJOsSx7mVc",
+      "domain": ".login.microsoftonline.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "fpc",
+      "value": "AmdkDHalb_NJlVh52Ui9TddxhxKeAQAAAP-add4OAAAA2KdP8wEAAAAIm3XeDgAAAA",
+      "domain": "login.microsoftonline.com",
+      "path": "/",
+      "expires": 1728786698.232625,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UserMarket",
+      "value": "47178",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": 1757730700.937634,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "is-access-my-ericsson",
+      "value": "false",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": 1760754700.588485,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".AspNetCore.Cookies",
+      "value": "CfDJ8LIYTCLEfApEgrCrmuQFuZ8NFHChe38gklP8KqGPk6WeyTjK7wHKrVlGlZr_ZLO-4IGExFhAIZsMQ7-H_TZkCkgd3_jp6nxjK-s1qaBOF3Xil9SArXG2scNgXC_nTuV3s7Y3bKTdW2uWzk-UTIrqBywkvisEYh7lL6AELSVP-8h_Rwnwl9TiXbLc2uGW-YUMAGnR8QvBw3YXSMfZPJi19-XOfWjPZeimTQxoPzBsHyBpwpuUSFOc7ifglIXkJbRsWKPuIBeWLF_cYkFoo6X1tY1L-Vvaj4uqYCPJ8bBFoDZNe6mUnItQkoG4rFl4sTnSDQ",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": 1726223500.588499,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "EPiStateMarker",
+      "value": "true",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "EPiStartUrlKey",
+      "value": "https%3A%2F%2Fwww.ericsson.com%2Fen%2Fmyericsson",
+      "domain": "www.ericsson.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.ericsson.com",
+      "localStorage": [
+        {
+          "name": "__cmpcccx64887_.ericsson.com",
+          "value": "aBQE5GfkAAgAzALAAuACgAIIDggHEgQZAg4BYEC4YKNAVLACJvwbsx3ZrdnG7PA"
+        },
+        {
+          "name": "consentManagerMigrated",
+          "value": "true"
+        },
+        {
+          "name": "cookieBotMigrated",
+          "value": ""
+        },
+        {
+          "name": "__cmpcccx64887_expire_.ericsson.com",
+          "value": "1727404285292"
+        }
+      ]
+    }
+  ]
+}
